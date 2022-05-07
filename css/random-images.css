@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 75vh;
+    text-align: center;
+}
+
+.image-container {
+    height: 100%;
+    margin: 5rem auto;
+    width: 75%;
+}
+
+img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.box-container{
+    margin-top: 1rem;
+}
+
+.header{
+    padding: 10px;
+}
+
+.btn-container {
+    text-align: center;
+}
